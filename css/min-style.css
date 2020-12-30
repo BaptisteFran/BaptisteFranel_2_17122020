@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+}
+
+.navbar {
+    display: flex;
+    margin: auto;
+}
+
+.navbar ul {
+    margin: auto;
+}
+
+.navbar ul li {
+    margin: auto;
+}
+
+.navbar ul li a {
+    color: #0065FC;
+    font-weight: bold;
+    float: none;
+    width: auto;
+    margin-left: 10px;
+}
+
+.disabled {
+    display: none;
+}
+
+.active {
+    display: none;
+}
